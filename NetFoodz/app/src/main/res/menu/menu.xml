@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_carrinho"
+        android:icon="@drawable/carrinho3"
+        android:onClick="ircarrinho"
+        android:title="Cart"
+        app:showAsAction="ifRoom|withText">
+    </item>
+</menu>
